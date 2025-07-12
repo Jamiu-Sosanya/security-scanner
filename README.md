@@ -34,3 +34,6 @@ The UI then parses and visualizes this data using intelligent score categorizati
 A security analyst wants to quickly triage an unknown IP.
 A developer needs to check if a file hash has been flagged in malware databases.
 A non-technical user wants a visual snapshot of a domain's safety.
+
+#LIVE DEMO
+https://jamiu-sosanya.github.io/security-scanner/
