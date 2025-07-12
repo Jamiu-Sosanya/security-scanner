@@ -21,7 +21,7 @@ Dynamically renders progress indicators using circular conic gradients
 📡 Supports multiple IOC types: URL, Domain, IP, Hash
 🎯 Input validation and UI feedback to ensure clean requests
 🌀 Animated circular progress indicators for threat scores
-🔄 Integration with n8n workflows for backend processing
+🔄 Integration with ai workflows for backend processing
 💡 Error handling modal for network and input issues
 📊 Raw JSON/text result preview for transparency/debugging
 
