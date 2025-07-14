@@ -1,3 +1,5 @@
+## For Educational Purpose
+
 # 🔐 Security Scanner — Automated Threat Analysis Workflow
 🛠 Description
 Security Scanner is a fully responsive web application that leverages AI workflow automation to analyze and evaluate potential threats associated with:
